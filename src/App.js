@@ -10,7 +10,10 @@ const animalDictionary = {
   "🐗": "boar",
   "🦝": "fox",
   "🦧": "orangutan",
-  "🦥": "sloth"
+  "🦥": "sloth",
+  "🦄" : "unicorn",
+  "🐼" : "panda",
+  "🦔" : "hedgehog"
 };
 
 const animals = Object.keys(animalDictionary);
